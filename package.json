@@ -1,0 +1,11 @@
+{
+    "name": "com.yourcompany.packagetemplate",
+    "version": "0.1.0",
+    "displayName": "PACKAGE TEMPLATE",
+    "description": "PACKAGE DESC",
+    "unity": "2019.4",
+    "author": {
+      "name": "YOURNAME",
+      "email": "YOUREMAIL@EXAMPLE.COM"
+    }
+  }
